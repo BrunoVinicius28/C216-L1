@@ -1,0 +1,94 @@
+=== Menu de Opções ===
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Bruno Vinícius
+Digite o e-mail do aluno: bruno.vinicius@gec.inatel.br
+Digite o curso (GES, GEC, GEA, etc.): GEC
+Aluno Bruno Vinícius cadastrado com sucesso! Matrícula: GEC1
+
+=== Menu de Opções ===
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Eduardo Karpfenstein
+Digite o e-mail do aluno: eduardo.karpfenstein@ges.inatel.br
+Digite o curso (GES, GEC, GEA, etc.): GES
+Aluno Eduardo Karpfenstein cadastrado com sucesso! Matrícula: GES1
+
+=== Menu de Opções ===
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Luiz Matheus Rodrigues Cândido
+Digite o e-mail do aluno: luiz.matheus@gec.inatel.br
+Digite o curso (GES, GEC, GEA, etc.): GEC
+Aluno Luiz Matheus Rodrigues Cândido cadastrado com sucesso! Matrícula: GEC2
+
+=== Menu de Opções ===
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+
+Lista de Alunos:
+- Nome: Bruno Vinícius, E-mail: bruno.vinicius@gec.inatel.br, Curso: GEC, Matrícula: GEC1
+- Nome: Eduardo Karpfenstein, E-mail: eduardo.karpfenstein@ges.inatel.br, Curso: GES, Matrícula: GES1
+- Nome: Luiz Matheus Rodrigues Cândido, E-mail: luiz.matheus@gec.inatel.br, Curso: GEC, Matrícula: GEC2
+
+=== Menu de Opções ===
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 3
+Digite a matrícula do aluno a ser atualizado: GEC1
+
+Atualizando aluno Bruno Vinícius (GEC1)
+Novo nome (pressione Enter para manter o atual): Bruno Souza
+Novo e-mail (pressione Enter para manter o atual): bruno.souza@ges.inatel.br
+Novo curso (GES, GEC, GEA, etc.) ou Enter para manter: GES
+Curso alterado! Nova matrícula: GES2
+
+=== Menu de Opções ===
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 4
+Digite a matrícula do aluno a ser removido: GES1
+Aluno Eduardo Karpfenstein removido com sucesso!
+
+=== Menu de Opções ===
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+
+Lista de Alunos:
+- Nome: Bruno Souza, E-mail: bruno.souza@ges.inatel.br, Curso: GES, Matrícula: GES2
+- Nome: Luiz Matheus Rodrigues Cândido, E-mail: luiz.matheus@gec.inatel.br, Curso: GEC, Matrícula: GEC2
+
+=== Menu de Opções ===
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 5
+Saindo...
